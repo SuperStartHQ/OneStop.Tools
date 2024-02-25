@@ -241,12 +241,18 @@ URL: [JSON to Rust Serde Online Converter | Serialize & Deserialize Easily](http
 
 Desc: Convert JSON data to Rust Serde format effortlessly online. Simplify serialization and deserialization processes with our user-friendly and fast web tool. Try it now!
 
+### JSON to Go Struct
+
+URL: [JSON to Go Struct Converter Online: Easily Convert JSON to Go Struct](https://onestop.tools/json/to-go-struct)
+
+Desc: Struggling with manual JSON to Go struct conversion? Our free tool takes the hassle out! Simply paste your JSON, and we'll generate perfect Go structs in seconds.No coding required!
+
 <br />
 
 ***
 
 <br />
 <br /> <br />
-Last updated at @ 2024-01-19T14:20:49.815Z
+Last updated at @ 2024-02-25T05:27:20.030Z
 <br />
 If have any suggestions feedback, please create an new issue.
